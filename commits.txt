@@ -1,0 +1,11 @@
+commit e64c5d3bebee3a40e6e7b3f11e54ddcd8b21a0f5
+Author: Yancy Marine <yanci.marine@gmail.com>
+Date:   Sun Nov 5 13:48:44 2017 -0800
+
+    fondo
+
+commit d21af2f376154ec32ebc27fcc3bd144234714516
+Author: Yancy Marine <yanci.marine@gmail.com>
+Date:   Sun Nov 5 13:38:55 2017 -0800
+
+    basico
